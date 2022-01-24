@@ -7,3 +7,7 @@
 - Decription
 - Price 
 - Images 
+
+## Instructions 
+- npm install if needed 
+- npm run dev
